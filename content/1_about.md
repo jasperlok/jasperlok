@@ -1,6 +1,5 @@
 ---
 authorbox: false
-date: "2020-12-20"
 menu: main
 sidebar: false
 title: About Author
