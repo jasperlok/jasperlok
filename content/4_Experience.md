@@ -1,3 +1,12 @@
+
+---
+authorbox: false
+menu: main
+date: "2020-12-20"
+sidebar: false
+title: Experience
+---
+
 widget: experience
 headless: true  # This file represents a page section.
 
