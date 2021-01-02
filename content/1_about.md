@@ -1,0 +1,15 @@
+---
+authorbox: false
+date: "2020-12-20"
+menu: main
+sidebar: false
+title: About Author
+---
+
+Hi there! I am Jasper, an actuary and a data scientist in training.
+
+![](/./about_files/image_data.jpg)
+Photo by **Franki Chamaki** on *Unsplash*
+
+This is just a trial of the page.
+
