@@ -7,8 +7,8 @@ title: Past Project
 ---
 
 Below are some of my past projects: <br  >
-- When 1 + 1 > 2: How Modern Data Science Could Complement Actuarial Science in Claim Cost Estimation <br  />
-Supervisor: Professor Kam Tin Seong <br   />
+**When 1 + 1 > 2: How Modern Data Science Could Complement Actuarial Science in Claim Cost Estimation** <br  />
+Supervisor: *Professor Kam Tin Seong* <br   />
 In this increasing competitive market, the ability to accurate estimate the claim cost is crucial. This would allow the insurers to better reflect the level of premiums based on the underlying risks of the policies. Therefore, in this capstone project, I aim to illustrate how modern data science techniques can be used to complement the traditional actuarial analysis in order to provide the firms competitive advantage. The project will cover how this end to end process, from data exploration and cleaning, model building, visualization and communicating the results could be implemented in RStudio. <br  />
 
 -B <br  />
