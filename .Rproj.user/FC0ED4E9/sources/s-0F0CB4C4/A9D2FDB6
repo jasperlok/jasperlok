@@ -3,15 +3,15 @@
     "path": "~/2_Data Science/PersonalBlog/config.toml",
     "project_path": "config.toml",
     "type": "toml",
-    "hash": "256341185",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1609571369191.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
-        "cursorPosition": "39,60",
-        "scrollLine": "22"
+        "cursorPosition": "4,17",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1609571743,
